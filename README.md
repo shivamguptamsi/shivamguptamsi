@@ -5,15 +5,7 @@
 <p align='center'>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6FCF97&center=true&vCenter=true&width=600&lines=Building+A+Brain." alt="Typing SVG" />
 </p>
-<p>
-  EDUCATION
-⌛Delhi Technological University (DTU)	New Delhi, India
-B.Tech in Software Engineering  |  2026 – 2030 (1st Year)
-Currently learnig
-Neural Networks 
-•	Implemented tensors, autograd, and nn.Module-based architectures; wrote training loops and gradient descent from first principles to build a ground-up understanding of deep learning internals.
 
-</p>
 <div></div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,pytorch" />
